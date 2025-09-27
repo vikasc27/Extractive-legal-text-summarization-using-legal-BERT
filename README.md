@@ -2,6 +2,7 @@
 Legal text summarization using bert is very useful application for lawyers and other who refer legal doc in short format
 ⚖️ Legal Document Summarizer
 📖 Steps to Run in Google Colab
+
 1️⃣ Save Files
 
 Save all project files into a single folder.
@@ -9,6 +10,7 @@ Save all project files into a single folder.
 2️⃣ Add Trained Model
 
 Upload your trained model folder into Google Drive.
+by this like  ---https://drive.google.com/drive/folders/1cKo45g2OSF1UDkwJKrtIut84Aq0tjBg2?usp=drive_link
 
 Copy the Drive path of the model folder.
 
